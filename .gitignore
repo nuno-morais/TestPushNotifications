@@ -1,0 +1,12 @@
+# ignore
+/node_modules/
+/platforms/
+/app/**/*.js
+.DS_STORE
+**/.DS_STORE
+/.cloud/
+/.tmp/
+/.tmp_backup/
+/build/
+.DS_STORE
+
